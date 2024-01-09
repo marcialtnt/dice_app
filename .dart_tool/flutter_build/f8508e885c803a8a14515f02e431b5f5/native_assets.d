@@ -1,0 +1,1 @@
+ C:\\Users\\marcelo\\Documents\\GitHub\\dice_app\\.dart_tool\\flutter_build\\f8508e885c803a8a14515f02e431b5f5\\native_assets.yaml: 
